@@ -1,0 +1,9 @@
+.header {
+  width: 100%;
+}
+
+.container {
+  padding: 42px 35px 48px 35px;
+  margin: 0 auto;
+  max-width: 1440px;
+}
